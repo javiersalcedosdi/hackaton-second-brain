@@ -6,10 +6,11 @@ Este repositorio contiene flujos, scripts y documentación para construir un MVP
 Captar información de múltiples canales (voz, chat, email), extraer tareas y decisiones, almacenarlas de forma estructurada, y consultarlas por lenguaje natural.
 
 ## 📦 Contenido
+- `/docs/brief_hackathon.md`: Resumen del reto y dinámica del evento
+- `/docs/arquitectura base sugerida.md`: Arquitectura base que planteamos para trabajar, se puede modificar
 - `/flows/n8n/`: Flujos de automatización para N8n
 - `/scripts/`: Identificación de voz con Resemblyzer
 - `/examples/`: Audios y mensajes de prueba
-- `/docs/brief_hackathon.md`: Resumen del reto y dinámica del evento
 
 ## 🚀 ¿Cómo participar?
 1. Lee el `brief_hackathon.md`
