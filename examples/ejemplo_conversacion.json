@@ -1,0 +1,23 @@
+{
+  "id": "reunion_20250720",
+  "tipo": "audio",
+  "fecha": "2025-07-20",
+  "canal": "Teams",
+  "participantes": [
+    "Javier",
+    "María",
+    "Carlos"
+  ],
+  "contenido_original": "https://onedrive.com/audio/reunion_20250720.mp3",
+  "transcripcion": "Hola Javier, ¿puedes encargarte del informe de resultados?...",
+  "resumen": "María pidió a Javier encargarse del informe. Carlos reportó avances del proyecto Zenit.",
+  "tareas": [
+    {
+      "responsable": "Javier",
+      "descripcion": "Preparar informe de resultados",
+      "fecha_limite": "2025-07-25"
+    }
+  ],
+  "embedding_vector": "[...]",
+  "link_origen": "https://teams.microsoft.com/l/meetup-join/..."
+}

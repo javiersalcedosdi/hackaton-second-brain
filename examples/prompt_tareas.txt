@@ -1,0 +1,18 @@
+
+Eres un asistente inteligente. A partir de la siguiente conversación transcrita, extrae tareas asignadas a Javier y resúmelas de forma clara y accionable.
+
+Transcripción:
+---
+María: Javier, ¿puedes encargarte del informe de resultados?
+Javier: Sí, me encargo yo.
+Carlos: Perfecto, entonces seguimos con eso.
+---
+
+Respuesta esperada:
+[
+  {
+    "responsable": "Javier",
+    "descripcion": "Preparar informe de resultados",
+    "fecha_limite": null
+  }
+]
