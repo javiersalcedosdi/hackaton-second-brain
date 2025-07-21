@@ -152,30 +152,6 @@ Cada unidad de información estructurada (reunión, mensaje, correo) incluye:
 
 ---
 
-## 🚀 Plan de Acción
-
-### Semana 1: Setup base y voces
-
-- Grabar voces frecuentes
-- Configurar flujos de audio en N8n
-- Instalar Whisper + diarización + GPT-4
-
-### Semana 2-3: Texto y tareas
-
-- Integrar Graph API para Teams y Outlook
-- Procesar mensajes y emails
-- Crear tareas automáticamente
-- Guardar + resumir contenido textual
-
-### Semana 4+: Consultas y escalado
-
-- Vector DB y chatbot RAG
-- Dashboard de productividad
-- Agentes automáticos con Langchain
-- Escalado a todo el equipo
-
----
-
 ## 🔐 Seguridad y Privacidad
 
 - Toda la información bajo Microsoft 365 + OneDrive (datos en tu perímetro)
