@@ -1,0 +1,17 @@
+{
+  "name": "Extract Tasks with GPT-4",
+  "nodes": [
+    {
+      "name": "Prepare Prompt",
+      "type": "function"
+    },
+    {
+      "name": "Call OpenAI",
+      "type": "openai"
+    },
+    {
+      "name": "Parse Results",
+      "type": "function"
+    }
+  ]
+}

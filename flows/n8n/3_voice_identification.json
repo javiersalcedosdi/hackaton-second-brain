@@ -1,0 +1,13 @@
+{
+  "name": "Speaker Matching",
+  "nodes": [
+    {
+      "name": "Run Resemblyzer",
+      "type": "code"
+    },
+    {
+      "name": "Match to known voices",
+      "type": "function"
+    }
+  ]
+}

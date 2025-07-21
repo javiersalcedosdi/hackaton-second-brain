@@ -1,0 +1,13 @@
+{
+  "name": "Audio Ingestion",
+  "nodes": [
+    {
+      "name": "Webhook Trigger",
+      "type": "webhook"
+    },
+    {
+      "name": "Save to OneDrive",
+      "type": "microsoftOnedrive"
+    }
+  ]
+}

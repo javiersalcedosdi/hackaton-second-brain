@@ -1,0 +1,13 @@
+{
+  "name": "Create Tasks in ClickUp",
+  "nodes": [
+    {
+      "name": "Format Task",
+      "type": "function"
+    },
+    {
+      "name": "Send to ClickUp API",
+      "type": "httpRequest"
+    }
+  ]
+}

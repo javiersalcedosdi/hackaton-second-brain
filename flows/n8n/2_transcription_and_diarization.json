@@ -1,0 +1,17 @@
+{
+  "name": "Transcription + Diarization",
+  "nodes": [
+    {
+      "name": "Download Audio",
+      "type": "httpRequest"
+    },
+    {
+      "name": "Run Whisper",
+      "type": "code"
+    },
+    {
+      "name": "Run pyannote",
+      "type": "code"
+    }
+  ]
+}
